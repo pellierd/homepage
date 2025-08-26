@@ -27,13 +27,13 @@ La première période du projet est consacrée à l'élaboration des documents p
 
 ## Dates importantes
 
-- **Choix définitif du sujet** : 10/10/2024  
-- **Début du stage une journée par semaine** : 14/10/2024  
-- **Date de la première soutenance** : 20/01/2025 et 27/01/2025  
-- **Début des 7 semaines de stages** : 05/05/2025  
-- **Soutenance finale** : 19/06/2025  
+- **Choix définitif du sujet** : 13/10/2025  
+- **Début du TER une journée par semaine** : 3/11/20245  
+- **Date de la première soutenance** : 19/01/2026 et 26/01/2026  
+- **Début des 7 semaines de stages** : 04/05/2026  
+- **Soutenance finale** : 18/06/2026  
 
-## Projets 2024–2025 / Affectation
+## Projets 2025–2026 / Affectation
 
 - **Sujet n°1** : [Analysis of Information Retrieval Longitudinal Evaluation Collection (AIRLEC)](srp/sujet2401.pdf)
 - **Sujet n°2** : [Prototype d’agent conversationnel pour les séniors](srp/sujet2402.pdf)  
