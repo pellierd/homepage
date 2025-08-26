@@ -1,0 +1,62 @@
+site_name: "Prof. Damien Pellier - Univ. Grenoble Alpes"
+site_description: Damien Pellier Homepage
+site_author: Damien Pellier
+site_url: https://exemple.com
+copyright: Copyright © 2025 Damien Pellier
+
+theme:
+  name: material
+  #logo: images/logo.png
+  favicon: images/favicon.png
+  features:
+    - header.autohide
+    - navigation.sections  # Active le menu latéral par sections
+    - navigation.expand    # Tout étendre par défaut
+    - navigation.sticky    # Fixe le menu à gauche
+    - content.code.copy    # Bouton pour copier le code
+    - content.code.annotate # Pour annoter le code
+  show_title: false
+  # Palettes de couleurs jour/nuit, cf : https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/
+  palette:
+    - scheme: default # nom du thème clair
+      primary: indigo # couleur primaire des titres, des liens, ..., à prendre dans la liste
+      accent: blue # couleur d'accentuation au survol des boutons, desliens, ..., à prendre dans la liste
+      toggle: # définition du bouton pour switcher de palette
+        icon: material/weather-sunny # apparence
+        name: Basculer en mode sombre # message
+    - scheme: slate # nom du thème sombre
+      primary: blue grey
+      accent: grey
+      toggle:
+        icon: material/weather-night
+        name: Basculer en mode clair
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.keys
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - toc:
+      permalink: false
+      toc_depth: 0
+
+extra_css:
+  - css/custom.css  # Ajouter un CSS personnalisé pour le style moderne
+
+nav:
+  - Home: index.md
+  - Research:
+      - Publications: https://cv.hal.science/pellier
+      - Demonstrations: https://www.youtube.com/channel/UC6oqhcs8tBPCo8RH4B_6OPA
+      - Softwares and Tools: research/softwares
+      - Supervising: research/supervising.md
+      - Opened Positions: https://marvin.imag.fr/doku.php?id=jobs#phd_positions
+  - Teaching:
+      - Introduction to AI: teaching/ai.md
+      - AI Planning: teaching/planning.md
+      - Introduction to Databases: teaching/databases.md
+      - Human Computer Interaction: teaching/hci.md
+      - Student Research Project: teaching/srp.md
+  - Contact: contact.md
