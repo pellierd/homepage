@@ -28,7 +28,7 @@ La première période du projet est consacrée à l'élaboration des documents p
 ## Dates importantes
 
 - **Choix définitif du sujet** : 13/10/2025  
-- **Début du TER une journée par semaine** : 3/11/20245  
+- **Début du TER une journée par semaine** : 3/11/2025  
 - **Date de la première soutenance** : 19/01/2026 et 26/01/2026  
 - **Début des 7 semaines de stages** : 04/05/2026  
 - **Soutenance finale** : 18/06/2026  
