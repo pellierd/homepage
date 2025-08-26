@@ -37,18 +37,10 @@ La première période du projet est consacrée à l'élaboration des documents p
 
 - **Sujet n°1** : [Analysis of Information Retrieval Longitudinal Evaluation Collection (AIRLEC)](srp/sujet2401.pdf)
 - **Sujet n°2** : [Prototype d’agent conversationnel pour les séniors](srp/sujet2402.pdf)  
-    - G1 : Diane Craig, Basso Matis  
-    - G2 : Luginbuhl Valentin, Zhang Jinyang, Zoffranieri Adrien  
-    - G3 : Adrien Slifirski, Alie Beyeler, Marc Dieudonné
 - **Sujet n°3** : [Développement d’un back-office pour la configuration d’un système générateur des parcours d’apprentissage adaptatifs](srp/sujet2403.pdf)  
-    - G1: Yanis Girardin, Noé Peutot
 - **Sujet n°4** : [Mise en place d’un outil de collecte de données pour l’aide à la décision dans le cadre de la radiologie interventionnelle vasculaire](srp/sujet2404.pdf)  
-    - G1: Bilal Lahmami
 - **Sujet n°5** : [Optimisation de l’organisation des emplois du temps au collège](srp/sujet2405.pdf)  
-    - G1: Arbaut Jean-Baptiste, Tropel Célia  
-    - G2: Valentine Duez, Dechamps Kylian, Eramil Kadir, Aubry Pilloud
 - **Sujet n°6** : [Plateforme de gestion des contrats pédagogiques de la licence MIASHS](srp/sujet2406.pdf)  
-    - G1: Jacquet Léo, Montanier Pablo
 - **Sujet n°7** : [Développement d’une application pour la formation en maïeutique](srp/sujet0224.pdf)
 - **Sujet n°8** : [Éditeur web de graphes UNL](srp/sujet2407.pdf)
 
