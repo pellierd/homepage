@@ -26,7 +26,16 @@ Après un rappel des principes ergonomiques, ce cours s’intéresse essentielle
     - Cours n°3: [Les grands principes de conception](hci/03-conception.pdf)
     - Cours n°4: [IHM et architectures logicielles](hci/04-architecture.pdf)
 - **Partie III : Techniques de conception d'IHM**
-    - A venir
+    - React : Laurent Thevenon, Van-Louis Tran (12/11)
+    - React/Next.Js: Noé Peuto, Yanis Girardin (12/11)
+    - Dash : Elie Beyler, Kylian Deschampsn Kadir Eranil (20/11)
+    - Amber.Js : Marisela Flored, KacperZabkowski (20/11)
+    - Svelte.Js: Valentin Luginbuhl, Eric Trom, Ayla Diane (26/11)
+    - Flutter: Adrien Zoffranieri, Diane Craig, Nathanaël Rasoamanana (26/11)
+    - .net C#: Matis Basso JinyangZhang (3/11)
+    - Vu.js/base: Léo Jacquet, Pablo Montanier (4/12)
+    - Vu.js/HightChart: Jean-Baptiste Arbaut, Célia Tropel (4/12)
+    - Angular: Marc-Arold Rosemond, Nicolas Dijoud (4/12)
 
 ## Références bibliographiques
 
