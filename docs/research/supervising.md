@@ -16,9 +16,10 @@
 ### Current PhD Students
 
 - **Gaspard Quenard** (2023–2026, funded by ANR). Solving hierarchical planning problems based on SAT problem solving (co-supervised with Humbert Fiorino).
-- **Oleksandr Firnov** (2022–2025, funded by CIFRE). Application of automatic planning and scheduling techniques to industrial process management (co-supervised with Humbert Fiorino).
 
 ### Past PhD Students
+
+- **Oleksandr Firnov** (2022–2025, funded by CIFRE). Application of automatic planning and scheduling techniques to industrial process management (co-supervised with Humbert Fiorino).
 
 - **Nicolas Carvel** (2020–2023, funded by CIFRE). Mission planning support tool for integrated maritime robotic systems (co-supervised with Humbert Fiorino).
 - **Rami Younes** (2020–2023, funded by Institut MIA). Integrating machine learning and AI planning techniques for Human-Robot Interaction (co-supervised with Gérard Bailly).
