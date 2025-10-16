@@ -3,10 +3,10 @@
 ## Current Postdoctoral Supervision
 
 - **Maxence Grand** (2022–2027, funded by IDEX Grenoble). Real-time inference of an operator’s intentions based on perceptual and gestural information in the context of cooperative activities in cobotics (co-supervised with Francis Jambon).
-- **Etienne Fournier** (2024–2025, funded by IDEX Grenoble). Study of Human-Cobot interactions in the context of an assembly task (co-supervised with Aurélie Landry).
 
 ### Past Postdoctoral Supervision
 
+- **Etienne Fournier** (2024–2025, funded by IDEX Grenoble). Study of Human-Cobot interactions in the context of an assembly task (co-supervised with Aurélie Landry).
 - **Serawork Amsalu Wallelign** (2020–2022, funded by ANR). Application of AlphaZero techniques to solve automated planning problems (co-supervised with Humbert Fiorino).
 - **Emmanuel Hermellin** (2017–2019, funded by SATT Linksium). Technology transfer of the PDDL4J software component.
 - **Rémi Lavalley** (2016–2017, funded by ANR). A Cognitive Architecture for Human-Robot Interactions (co-supervised with Sylvie Pesty).
@@ -15,12 +15,13 @@
 
 ### Current PhD Students
 
+- **Brahim Sadoudi** (2025-2026), funded by CIFRE). Application of Artificial Intelligence, Automated Planning, and Scheduling Techniques to Project Management, Coordination, and Project Engineering (co-supervised with Humbert Fiorino). 
+- **Takudzwa Togarepi** (2025-2026, funded by ANR). HTN planning with Multi-objective optimization (co-supervised with Humbert Fiorino).
 - **Gaspard Quenard** (2023–2026, funded by ANR). Solving hierarchical planning problems based on SAT problem solving (co-supervised with Humbert Fiorino).
 
 ### Past PhD Students
 
 - **Oleksandr Firnov** (2022–2025, funded by CIFRE). Application of automatic planning and scheduling techniques to industrial process management (co-supervised with Humbert Fiorino).
-
 - **Nicolas Carvel** (2020–2023, funded by CIFRE). Mission planning support tool for integrated maritime robotic systems (co-supervised with Humbert Fiorino).
 - **Rami Younes** (2020–2023, funded by Institut MIA). Integrating machine learning and AI planning techniques for Human-Robot Interaction (co-supervised with Gérard Bailly).
 - **Maxence Grand** (2019–2022, funded by IDEX Grenoble). Automatic learning of planning domains (co-supervised with Humbert Fiorino).
