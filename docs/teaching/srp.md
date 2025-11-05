@@ -37,6 +37,7 @@ La première période du projet est consacrée à l'élaboration des documents p
 
 - **Sujet n°1** : [Justice algorithmique des élections](srp/sujet_1_2025.pdf)
 - **Sujet n°2** : [Serious games pédagogiques](srp/sujet_2_2025.pdf)
+- **Sujet n°3** : [Understanding cognitive processing in smartphone writing](srp/sujet_3_2025.pdf)
 
 !!! warning "Important"
       - La liste est en cours de construction. Les sujets sont mis en ligne au fil de l'eau. Pensez à vérifier régulièrement.
