@@ -27,22 +27,16 @@ La première période du projet est consacrée à l'élaboration des documents p
 
 ## Dates importantes
 
-- **Choix définitif du sujet** : 13/10/2025  
-- **Début du TER une journée par semaine** : 3/11/2025  
+- **Choix définitif du sujet** : 08/12/2025  
+- **Début du TER une journée par semaine** : 08/12/2025  
 - **Date de la première soutenance** : 19/01/2026 et 26/01/2026  
 - **Début des 7 semaines de stages** : 04/05/2026  
 - **Soutenance finale** : 18/06/2026  
 
 ## Projets 2025–2026 / Affectation
 
-- **Sujet n°1** : [Analysis of Information Retrieval Longitudinal Evaluation Collection (AIRLEC)](srp/sujet2401.pdf)
-- **Sujet n°2** : [Prototype d’agent conversationnel pour les séniors](srp/sujet2402.pdf)  
-- **Sujet n°3** : [Développement d’un back-office pour la configuration d’un système générateur des parcours d’apprentissage adaptatifs](srp/sujet2403.pdf)  
-- **Sujet n°4** : [Mise en place d’un outil de collecte de données pour l’aide à la décision dans le cadre de la radiologie interventionnelle vasculaire](srp/sujet2404.pdf)  
-- **Sujet n°5** : [Optimisation de l’organisation des emplois du temps au collège](srp/sujet2405.pdf)  
-- **Sujet n°6** : [Plateforme de gestion des contrats pédagogiques de la licence MIASHS](srp/sujet2406.pdf)  
-- **Sujet n°7** : [Développement d’une application pour la formation en maïeutique](srp/sujet0224.pdf)
-- **Sujet n°8** : [Éditeur web de graphes UNL](srp/sujet2407.pdf)
+- **Sujet n°1** : [Justice algorithmique des élections](srp/sujet_1_2025.pdf)
+- **Sujet n°2** : [Serious games pédagogiques](srp/sujet_2_2025.pdf)
 
 !!! warning "Important"
       - La liste est en cours de construction. Les sujets sont mis en ligne au fil de l'eau. Pensez à vérifier régulièrement.
