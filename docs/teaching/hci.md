@@ -26,7 +26,7 @@ Après un rappel des principes ergonomiques, ce cours s’intéresse essentielle
     - Cours n°3: [Les grands principes de conception](hci/03-conception.pdf)
     - Cours n°4: [IHM et architectures logicielles](hci/04-architecture.pdf)
 - **Partie III : Techniques de conception d'IHM**
-    - React : Laurent Thevenon, Van-Louis Tran (12/11)
+    - React : Laurent Thevenon, Van-Louis Tran, [Cours](hci/tmp/React.pdf), [TP](https://github.com/Bloubing/trois-petits-cochons)
     - React/Next.Js: Noé Peuto, Yanis Girardin (12/11)
     - Dash : Elie Beyler, Kylian Deschampsn Kadir Eranil (20/11)
     - Amber.Js : Marisela Flored, KacperZabkowski (20/11)
