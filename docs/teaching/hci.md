@@ -27,7 +27,7 @@ Après un rappel des principes ergonomiques, ce cours s’intéresse essentielle
     - Cours n°4: [IHM et architectures logicielles](hci/04-architecture.pdf)
 - **Partie III : Techniques de conception d'IHM**
     - React : [Cours](hci/tmp/React.pdf), [TP](https://github.com/Bloubing/trois-petits-cochons) (Laurent Thevenon, Van-Louis Tran)
-    - React/Next.Js: Noé Peuto, Yanis Girardin (12/11)
+    - React/Next.Js: [Cours](hci/tmp/NextJS.pdf), [TP](https://tp-nextjs-alpha.vercel.app) (Noé Peuto, Yanis Girardin)
     - Dash : Elie Beyler, Kylian Deschampsn Kadir Eranil (20/11)
     - Amber.Js : Marisela Flored, KacperZabkowski (20/11)
     - Svelte.Js: Valentin Luginbuhl, Eric Trom, Ayla Diane (26/11)
