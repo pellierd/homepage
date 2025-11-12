@@ -27,13 +27,13 @@ Après un rappel des principes ergonomiques, ce cours s’intéresse essentielle
     - Cours n°4: [IHM et architectures logicielles](hci/04-architecture.pdf)
 - **Partie III : Techniques de conception d'IHM**
     - React : [Cours](hci/tmp/React.pdf), [TP](https://github.com/Bloubing/trois-petits-cochons) (Laurent Thevenon, Van-Louis Tran)
-    - React/Next.Js: [Cours](hci/tmp/NextJS.pdf), [TP](https://tp-nextjs-alpha.vercel.app) (Noé Peuto, Yanis Girardin)
+    - React/Next.Js: [Cours](hci/tmp/NextJS.pdf), [TP](https://tp-nextjs-alpha.vercel.app), [Git](https://github.com/noepeutot/GIRARDIN_PEUTOT_Musiverse) (Noé Peuto, Yanis Girardin)
     - Dash : Elie Beyler, Kylian Deschampsn Kadir Eranil (20/11)
     - Amber.Js : Marisela Flored, KacperZabkowski (20/11)
     - Svelte.Js: Valentin Luginbuhl, Eric Trom, Ayla Diane (26/11)
     - Flutter: Adrien Zoffranieri, Diane Craig, Nathanaël Rasoamanana (26/11)
     - .net C#: Matis Basso JinyangZhang (3/11)
-    - Vu.js/base: Léo Jacquet, Pablo Montanier (4/12)
+    - Vu.js/base: Léo Jacquet, Pablo Montanier (4/12) [Git](https://github.com/leo-jcq/projet-ihm)
     - Vu.js/HightChart: Jean-Baptiste Arbaut, Célia Tropel (4/12)
     - Angular: Marc-Arold Rosemond, Nicolas Dijoud (4/12)
 
