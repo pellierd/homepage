@@ -36,6 +36,7 @@ Après un rappel des principes ergonomiques, ce cours s’intéresse essentielle
     - Vu.js/base: Léo Jacquet, Pablo Montanier (4/12) [Git](https://github.com/leo-jcq/projet-ihm)
     - Vu.js/HightChart: Jean-Baptiste Arbaut, Célia Tropel (4/12)
     - Angular: Marc-Arold Rosemond, Nicolas Dijoud (4/12)
+    - SolidJS: [Git](https://github.com/Aubry-PILLOUD/Projet-IHM-Aubry-PILLOUD) (Aubry Pilloud)
 
 ## Références bibliographiques
 
