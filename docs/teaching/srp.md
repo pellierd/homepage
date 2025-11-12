@@ -39,6 +39,7 @@ La première période du projet est consacrée à l'élaboration des documents p
 - **Sujet n°2** : [Serious games pédagogiques](srp/Sujet_2_2025.pdf)
 - **Sujet n°3** : [Understanding cognitive processing in smartphone writing](srp/Sujet_3_2025.pdf)
 - **Sujet n°4** : [Développement d’un TP robotique avec Webots](srp/Sujet_4_2025.pdf)
+- **Sujet n°5** : [Application d'IA permettant des citations précises et des recherches juridiques approfondies](srp/Sujet_5_2025.pdf)
 
 !!! warning "Important"
       - La liste est en cours de construction. Les sujets sont mis en ligne au fil de l'eau. Pensez à vérifier régulièrement.
@@ -54,4 +55,4 @@ La première période du projet est consacrée à l'élaboration des documents p
 
 ## Affectation des sujets aux groupes
 
-Vous devez choisir un sujet avant les vacances d'automne. Une fois que l'encadrant a accepté de vous encadré merci de me l'indiquer par mail en mettant votre encadrant en copie.L'affectation des sujets sera FIFO (First In First Out). Soyez proactifs.
+Vous devez choisir un sujet avant les vacances d'automne. Une fois que l'encadrant a accepté de vous encadré merci de me l'indiquer par mail en mettant votre encadrant en copie. L'affectation des sujets sera FIFO (First In First Out). Soyez proactifs.
