@@ -29,7 +29,7 @@ Après un rappel des principes ergonomiques, ce cours s’intéresse essentielle
     - React : [Cours](hci/tmp/React.pdf), [TP](https://github.com/Bloubing/trois-petits-cochons) (Laurent Thevenon, Van-Louis Tran)
     - React/Next.Js: [Cours](hci/tmp/NextJS.pdf), [TP](https://tp-nextjs-alpha.vercel.app), [Git](https://github.com/noepeutot/GIRARDIN_PEUTOT_Musiverse) (Noé Peuto, Yanis Girardin)
     - Dash : Elie Beyler, Kylian Deschampsn Kadir Eranil (20/11)
-    - Amber.Js : Marisela Flored, KacperZabkowski (20/11)
+    - Amber.Js : [Cours](hci/tmp/EmberJS.pdf) Marisela Flored, KacperZabkowski (20/11)
     - Svelte.Js: Valentin Luginbuhl, Eric Trom, Ayla Diane (26/11)
     - Flutter: Adrien Zoffranieri, Diane Craig, Nathanaël Rasoamanana (26/11)
     - .net C#: Matis Basso JinyangZhang (3/11)
