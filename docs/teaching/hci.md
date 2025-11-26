@@ -34,7 +34,7 @@ Après un rappel des principes ergonomiques, ce cours s’intéresse essentielle
     - .net C#: Matis Basso JinyangZhang (3/11)
     - Vu.js/base: Léo Jacquet, Pablo Montanier (4/12) [Git](https://github.com/leo-jcq/projet-ihm)
     - Vu.js/HightChart: Jean-Baptiste Arbaut, Célia Tropel (4/12) [Git](https://github.com/CTRetu/Interaction-Homme-Machine-Arbaut-Tropel-MIASHS-IC)
-    - Angular: Marc-Arold Rosemond, Nicolas Dijoud (4/12)
+    - Angular: Marc-Arold Rosemond, Nicolas Dijoud [TP](https://github.com/Nizijolas/IHM2_AngularTP) (4/12)
     - SolidJS: [Git](https://github.com/Aubry-PILLOUD/Projet_IHM_Aubry_PILLOUD) (Aubry Pilloud)
 
 ## Références bibliographiques
