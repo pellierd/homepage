@@ -27,7 +27,7 @@ Après un rappel des principes ergonomiques, ce cours s’intéresse essentielle
 - **Partie III : Techniques de conception d'IHM**
     - React : [Cours](hci/tmp/React.pdf), [TP](https://github.com/Bloubing/trois-petits-cochons) (Laurent Thevenon, Van-Louis Tran)
     - React/Next.Js: [Cours](hci/tmp/NextJS.pdf), [TP](https://tp-nextjs-alpha.vercel.app), [Git](https://github.com/noepeutot/GIRARDIN_PEUTOT_Musiverse) (Noé Peuto, Yanis Girardin)
-    - Dash : [Cours](hci/tmp/Dash.pdf), [TP](https://github.com/Fina49/Projet_IHM.git) Elie Beyler, Kylian Deschamps, Kadir Eranil 
+    - Dash : [Cours](hci/tmp/Dash.pdf), [TP](https://github.com/Fina49/Projet_IHM/tree/TP) [Git](https://github.com/Fina49/Projet_IHM/tree/main) (Elie Beyler, Kylian Deschamps, Kadir Eranil)
     - Amber.Js : [Cours](hci/tmp/EmberJS.pdf) (Marisela Flored, KacperZabkowski)
     - Svelte.Js: [Cours](https://www.canva.com/design/DAG5PXv9in4/KtJ4V155oL0VE3xcHTVVtw/edit), [TP](https://www.notion.so/lelinguine/D-couverte-de-SvelteJS-2a9687c54bf880c591fbf5ac4e363f63), [Git](https://github.com/lelinguine/ihm-project) (Valentin Luginbuhl, Eric Trom, Ayla Diane)
     - Flutter: [Cours](hci/tmp/Flutter.pdf), [TP](https://github.com/Pandaniens/FlutterTestIHM/), [Git](https://github.com/Diane38/IHM_S9_Craig_Zoffranieri_-Rasoamanana.git) (Adrien Zoffranieri, Diane Craig, Nathanaël Rasoamanana)
