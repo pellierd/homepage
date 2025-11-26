@@ -30,7 +30,7 @@ Après un rappel des principes ergonomiques, ce cours s’intéresse essentielle
     - Dash : [Cours](hci/tmp/Dash.pdf), [TP](https://github.com/Fina49/Projet_IHM.git) Elie Beyler, Kylian Deschamps, Kadir Eranil (20/11)
     - Amber.Js : [Cours](hci/tmp/EmberJS.pdf) Marisela Flored, KacperZabkowski (20/11)
     - Svelte.Js: Valentin Luginbuhl, Eric Trom, Ayla Diane [Cours](https://www.canva.com/design/DAG5PXv9in4/KtJ4V155oL0VE3xcHTVVtw/edit), [TP](https://www.notion.so/lelinguine/D-couverte-de-SvelteJS-2a9687c54bf880c591fbf5ac4e363f63), [Git](https://github.com/lelinguine/ihm-project)
-    - Flutter: Adrien Zoffranieri, Diane Craig, Nathanaël Rasoamanana Cours](hci/tmp/Flutter.pdf), [TP](https://github.com/Pandaniens/FlutterTestIHM/)
+    - Flutter: Adrien Zoffranieri, Diane Craig, Nathanaël Rasoamanana [Cours](hci/tmp/Flutter.pdf), [TP](https://github.com/Pandaniens/FlutterTestIHM/)
     - .net C#: Matis Basso JinyangZhang (3/11)
     - Vu.js/base: Léo Jacquet, Pablo Montanier (4/12) [Git](https://github.com/leo-jcq/projet-ihm)
     - Vu.js/HightChart: Jean-Baptiste Arbaut, Célia Tropel (4/12) [Git](https://github.com/CTRetu/Interaction-Homme-Machine-Arbaut-Tropel-MIASHS-IC)
