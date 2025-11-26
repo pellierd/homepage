@@ -35,14 +35,15 @@ La première période du projet est consacrée à l'élaboration des documents p
 
 ## Projets 2025–2026 / Affectation
 
-- **Sujet n°1** : [Justice algorithmique des élections](srp/Sujet_1_2025.pdf)
+- **Sujet n°1** : [Justice algorithmique des élections](srp/Sujet_1_2025.pdf) (Jennad Mahdi, Rabehi Milhan)
 - **Sujet n°2** : [Serious games pédagogiques](srp/Sujet_2_2025.pdf)
-- **Sujet n°3** : [Understanding cognitive processing in smartphone writing](srp/Sujet_3_2025.pdf)
+- **Sujet n°3** : [Understanding cognitive processing in smartphone writing](srp/Sujet_3_2025.pdf) [Déja choisi]
 - **Sujet n°4** : [Développement d’un TP robotique avec Webots](srp/Sujet_4_2025.pdf) (Alexis Rebelo, Alex Marchetto)
 - **Sujet n°5** : [Application d'IA permettant des citations précises et des recherches juridiques approfondies](srp/Sujet_5_2025.pdf)
 - **Sujet n°6** : [Implémentation du composant questionnaire d’un outil de collecte de données biographiques rétrospective](srp/Sujet_6_2025.pdf)
-- **Sujet n°7** : [Conception d’une plateforme de création et de gestion de tests d’évaluation en mathématiques pour la recherche en éducation](srp/Sujet_7_2025.pdf) (Osama Lababidi, Arthur Laumay.
+- **Sujet n°7** : [Conception d’une plateforme de création et de gestion de tests d’évaluation en mathématiques pour la recherche en éducation](srp/Sujet_7_2025.pdf) (Osama Lababidi, Arthur Laumay)
 - **Sujet n°8** : [Algorithme de résolution de jeux à information imparfaite ](srp/Sujet_8_2025.pdf)
+- **Sujet n°9** : [GenderedNews](srp/Sujet_9_2025.pdf) (Aylin Guventurk, Rachel peretti)
 
 
 Conception d’une plateforme de création et de gestion de tests d’évaluation en mathématiques pour la recherche en éducation
