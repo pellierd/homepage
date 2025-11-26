@@ -43,7 +43,7 @@ La première période du projet est consacrée à l'élaboration des documents p
 - **Sujet n°6** : [Implémentation du composant questionnaire d’un outil de collecte de données biographiques rétrospective](srp/Sujet_6_2025.pdf)
 - **Sujet n°7** : [Conception d’une plateforme de création et de gestion de tests d’évaluation en mathématiques pour la recherche en éducation](srp/Sujet_7_2025.pdf) (Osama Lababidi, Arthur Laumay)
 - **Sujet n°8** : [Algorithme de résolution de jeux à information imparfaite ](srp/Sujet_8_2025.pdf)
-- **Sujet n°9** : [GenderedNews](srp/Sujet_9_2025.pdf) (Aylin Guventurk, Rachel peretti)
+- **Sujet n°9** : [GenderedNews](srp/Sujet_9_2025.pdf) (Aylin Guventurk, Rachel Peretti)
 
 
 Conception d’une plateforme de création et de gestion de tests d’évaluation en mathématiques pour la recherche en éducation
