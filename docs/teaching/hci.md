@@ -115,4 +115,4 @@ Tous les documents ainsi que l'archive (zip) de votre projet devront être envoy
 | S12 | Prototype d'interface |
 
 !!!info "Remarque"
-    Tous les livrables devront être déposés sur le bitbucket. Vous pouvez modifier les livrables après la date de rendu sauf le dernier en S12.
+    Tous les livrables devront être déposés sur votre git. Vous pouvez modifier les livrables après la date de rendu sauf le dernier en S12.
