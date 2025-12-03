@@ -33,7 +33,7 @@ Après un rappel des principes ergonomiques, ce cours s’intéresse essentielle
     - Flutter: [Cours](hci/tmp/Flutter.pdf), [TP](https://github.com/Pandaniens/FlutterTestIHM/), [Git](https://github.com/Diane38/IHM_S9_Craig_Zoffranieri_-Rasoamanana.git) (Adrien Zoffranieri, Diane Craig, Nathanaël Rasoamanana)
     - .net C#: [Cours](https://docs.google.com/presentation/d/18nEf82vEkagVzWKCFFFI7paTP4bMEXMdSuw1On4LN5Q/edit?slide=id.p#slide=id.p), [Git](https://github.com/yilingwaku/BlazorTpDemo/tree/main) (Matis Basso, Jinyang Zhang)
     - Vu.js/base:[Git](https://github.com/leo-jcq/projet-ihm) Léo Jacquet, Pablo Montanier (4/12)
-    - Vu.js/HightChart: Jean-Baptiste Arbaut, Célia Tropel (4/12) [Cours](http://github.com/CTRetu/IHM-Activite-HighCharts/blob/main/HighCharts_Arbaut_Tropel_M2_MIASHS_IC_IHM.pdf), [TP]( https://github.com/CTRetu/IHM-Activite-HighCharts/tree/main), [Git](https://github.com/CTRetu/Interaction-Homme-Machine-Arbaut-Tropel-MIASHS-IC)
+    - Vu.js/HightChart: [Cours](http://github.com/CTRetu/IHM-Activite-HighCharts/blob/main/HighCharts_Arbaut_Tropel_M2_MIASHS_IC_IHM.pdf), [TP]( https://github.com/CTRetu/IHM-Activite-HighCharts/tree/main), [Git](https://github.com/CTRetu/Interaction-Homme-Machine-Arbaut-Tropel-MIASHS-IC) (Jean-Baptiste Arbaut, Célia Tropel) (4/12)
     - Angular: [Cours](https://docs.google.com/presentation/d/1ZOapGsFTTztzIMGpo9KG2uXQpOtNoPcrlvw9nQZi9II/edit?slide=id.p2#slide=id.p2), [TP](https://github.com/Nizijolas/IHM2_AngularTP) (Marc-Arold Rosemond, Nicolas Dijoud) (4/12)
     - SolidJS: [Git](https://github.com/Aubry-PILLOUD/Projet_IHM_Aubry_PILLOUD) (Aubry Pilloud)
 
