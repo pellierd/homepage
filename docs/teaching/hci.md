@@ -25,7 +25,7 @@ Après un rappel des principes ergonomiques, ce cours s’intéresse essentielle
     - Cours n°3: [Les grands principes de conception](hci/03-conception.pdf)
     - Cours n°4: [IHM et architectures logicielles](hci/04-architecture.pdf)
 - **Partie III : Techniques de conception d'IHM**
-    - React : [Cours](hci/tmp/React.pdf), [TP](https://github.com/Bloubing/trois-petits-cochons), [Git](https://github.com/Bloubing/M2-IHM.) (Laurent Thevenon, Van-Louis Tran)
+    - React : [Cours](hci/tmp/React.pdf), [TP](https://github.com/Bloubing/trois-petits-cochons), [Git](https://github.com/Bloubing/M2-IHM) (Laurent Thevenon, Van-Louis Tran)
     - React/Next.Js: [Cours](hci/tmp/NextJS.pdf), [TP](https://tp-nextjs-alpha.vercel.app), [Git](https://github.com/noepeutot/GIRARDIN_PEUTOT_Musiverse) (Noé Peuto, Yanis Girardin)
     - Dash : [Cours](hci/tmp/Dash.pdf), [TP](https://github.com/Fina49/Projet_IHM/tree/TP) [Git](https://github.com/Fina49/Projet_IHM/tree/main) (Elie Beyler, Kylian Deschamps, Kadir Eranil)
     - Amber.Js : [Cours](hci/tmp/EmberJS.pdf) [Git](https://github.com/Kacpier/ember-quickstart) (Marisela Flored, KacperZabkowski)
