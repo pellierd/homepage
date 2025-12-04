@@ -25,16 +25,16 @@ Après un rappel des principes ergonomiques, ce cours s’intéresse essentielle
     - Cours n°3: [Les grands principes de conception](hci/03-conception.pdf)
     - Cours n°4: [IHM et architectures logicielles](hci/04-architecture.pdf)
 - **Partie III : Techniques de conception d'IHM**
-    - React : [Cours](hci/tmp/React.pdf), [TP](https://github.com/Bloubing/trois-petits-cochons) (Laurent Thevenon, Van-Louis Tran)
+    - React : [Cours](hci/tmp/React.pdf), [TP](https://github.com/Bloubing/trois-petits-cochons), [Git](https://github.com/Bloubing/M2-IHM.) (Laurent Thevenon, Van-Louis Tran)
     - React/Next.Js: [Cours](hci/tmp/NextJS.pdf), [TP](https://tp-nextjs-alpha.vercel.app), [Git](https://github.com/noepeutot/GIRARDIN_PEUTOT_Musiverse) (Noé Peuto, Yanis Girardin)
     - Dash : [Cours](hci/tmp/Dash.pdf), [TP](https://github.com/Fina49/Projet_IHM/tree/TP) [Git](https://github.com/Fina49/Projet_IHM/tree/main) (Elie Beyler, Kylian Deschamps, Kadir Eranil)
-    - Amber.Js : [Cours](hci/tmp/EmberJS.pdf) (Marisela Flored, KacperZabkowski)
+    - Amber.Js : [Cours](hci/tmp/EmberJS.pdf) [Git](https://github.com/Kacpier/ember-quickstart) (Marisela Flored, KacperZabkowski)
     - Svelte.Js: [Cours](https://www.canva.com/design/DAG5PXv9in4/KtJ4V155oL0VE3xcHTVVtw/edit), [TP](https://www.notion.so/lelinguine/D-couverte-de-SvelteJS-2a9687c54bf880c591fbf5ac4e363f63), [Git](https://github.com/lelinguine/ihm-project) (Valentin Luginbuhl, Eric Trom, Ayla Diane)
     - Flutter: [Cours](hci/tmp/Flutter.pdf), [TP](https://github.com/Pandaniens/FlutterTestIHM/), [Git](https://github.com/Diane38/IHM_S9_Craig_Zoffranieri_-Rasoamanana.git) (Adrien Zoffranieri, Diane Craig, Nathanaël Rasoamanana)
     - .net C#: [Cours](https://docs.google.com/presentation/d/18nEf82vEkagVzWKCFFFI7paTP4bMEXMdSuw1On4LN5Q/edit?slide=id.p#slide=id.p), [TP](https://github.com/yilingwaku/BlazorTpDemo/tree/main), [Git](https://github.com/yilingwaku/BlazorTpDemo/tree/main) (Matis Basso, Jinyang Zhang)
     - Vu.js/base: [Cours](https://github.com/leo-jcq/tp-todo-app/blob/main/presentation.pdf), [TP]( https://github.com/leo-jcq/tp-todo-app), [Git](https://github.com/leo-jcq/projet-ihm) Léo Jacquet, Pablo Montanier
     - Vu.js/HightChart: [Cours](http://github.com/CTRetu/IHM-Activite-HighCharts/blob/main/HighCharts_Arbaut_Tropel_M2_MIASHS_IC_IHM.pdf), [TP]( https://github.com/CTRetu/IHM-Activite-HighCharts/tree/main), [Git](https://github.com/CTRetu/Interaction-Homme-Machine-Arbaut-Tropel-MIASHS-IC) (Jean-Baptiste Arbaut, Célia Tropel)
-    - Angular: [Cours](https://docs.google.com/presentation/d/1ZOapGsFTTztzIMGpo9KG2uXQpOtNoPcrlvw9nQZi9II/edit?slide=id.p2#slide=id.p2), [TP](https://github.com/Nizijolas/IHM2_AngularTP) (Marc-Arold Rosemond, Nicolas Dijoud) 
+    - Angular: [Cours](https://docs.google.com/presentation/d/1ZOapGsFTTztzIMGpo9KG2uXQpOtNoPcrlvw9nQZi9II/edit?slide=id.p2#slide=id.p2), [TP](https://github.com/Nizijolas/IHM2_AngularTP) (Marc-Arold Rosemond, Nicolas Dijoud)
     - SolidJS: [Git](https://github.com/Aubry-PILLOUD/Projet_IHM_Aubry_PILLOUD) (Aubry Pilloud)
 
 ## Références bibliographiques
