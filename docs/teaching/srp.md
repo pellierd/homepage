@@ -35,20 +35,20 @@ La première période du projet est consacrée à l'élaboration des documents p
 
 ## Projets 2025–2026 / Affectation
 
-- **Sujet n°1** : [Justice algorithmique des élections](srp/Sujet_1_2025.pdf) (Jennad Mahdi, Rabehi Milhan)
+- **Sujet n°1** : [Justice algorithmique des élections](srp/Sujet_1_2025.pdf): (Jennad Mahdi, Rabehi Milhan)
 - **Sujet n°2** : [Serious games pédagogiques](srp/Sujet_2_2025.pdf)
 - **Sujet n°3** : [Understanding cognitive processing in smartphone writing](srp/Sujet_3_2025.pdf) [Déja choisi]
-- **Sujet n°4** : [Développement d’un TP robotique avec Webots](srp/Sujet_4_2025.pdf) (Alexis Rebelo, Alex Marchetto)
+- **Sujet n°4** : [Développement d’un TP robotique avec Webots](srp/Sujet_4_2025.pdf): (Alexis Rebelo, Alex Marchetto)
 - **Sujet n°5** : [Application d'IA permettant des citations précises et des recherches juridiques approfondies](srp/Sujet_5_2025.pdf)
-- **Sujet n°6** : [Implémentation du composant questionnaire d’un outil de collecte de données biographiques rétrospective](srp/Sujet_6_2025.pdf) (Tran-Phuc-Tin Truong, Adrien Van-Robays)
-- **Sujet n°7** : [Conception d’une plateforme de création et de gestion de tests d’évaluation en mathématiques pour la recherche en éducation](srp/Sujet_7_2025.pdf) (Osama Lababidi, Arthur Laumay, Brice Mc Carthy)
+- **Sujet n°6** : [Implémentation du composant questionnaire d’un outil de collecte de données biographiques rétrospective](srp/Sujet_6_2025.pdf): (Tran-Phuc-Tin Truong, Adrien Van-Robays)
+- **Sujet n°7** : [Conception d’une plateforme de création et de gestion de tests d’évaluation en mathématiques pour la recherche en éducation](srp/Sujet_7_2025.pdf): (Osama Lababidi, Arthur Laumay, Brice Mc Carthy)
 - **Sujet n°8** : [Algorithme de résolution de jeux à information imparfaite ](srp/Sujet_8_2025.pdf)
-- **Sujet n°9** : [GenderedNews](srp/Sujet_9_2025.pdf) (Aylin Guventurk, Rachel Peretti)
-- **Sujet n°10** : Développement d'une application Java modélisant l'apprentissage arithmétique (Gatien Caillet,
+- **Sujet n°9** : [GenderedNews](srp/Sujet_9_2025.pdf): (Aylin Guventurk, Rachel Peretti)
+- **Sujet n°10** : Développement d'une application Java modélisant l'apprentissage arithmétique: (Gatien Caillet,
 Jeanne-Esther Illouz)
 - **Sujet n°11** : [Conception et développment d’une interface pour gérer le contenu et les pièces jointes dans les mails automatiques envoyés au cours d’un  wokflow de processus métier](srp/Sujet_11_2025.pdf)
-- **Sujet n°12** : [Sujet Valence]() [GIT](https://github.com/alkalain/MARL-RL-GUI.git) (Alain Karapertian, Enzo Vigne, Timéo Raphoz)
-- **Sujet n°13** : Optimisation de l'organisation d'un processus de picking en logistique [GIT](https://github.com/ValentineDz/Emploi-Du-Temps-TER) (Anesie Martiniani, Andrea Behar-Yutkewich)
+- **Sujet n°12** : [Sujet Valence](): [GIT](https://github.com/alkalain/MARL-RL-GUI.git) (Alain Karapertian, Enzo Vigne, Timéo Raphoz)
+- **Sujet n°13** : Optimisation de l'organisation d'un processus de picking en logistique: [GIT](https://github.com/ValentineDz/Emploi-Du-Temps-TER) (Anesie Martiniani, Andrea Behar-Yutkewich)
 
 
 !!! warning "Important"
