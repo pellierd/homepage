@@ -35,7 +35,7 @@ La première période du projet est consacrée à l'élaboration des documents p
 
 ## Projets 2025–2026 / Affectation
 
-- **Sujet n°1** : [Justice algorithmique des élections](srp/Sujet_1_2025.pdf): (Jennad Mahdi, Rabehi Milhan)
+- **Sujet n°1** : [Justice algorithmique des élections](srp/Sujet_1_2025.pdf): (Djennad Mahdi, Rabehi Milhan)
 - **Sujet n°2** : [Serious games pédagogiques](srp/Sujet_2_2025.pdf)
 - **Sujet n°3** : [Understanding cognitive processing in smartphone writing](srp/Sujet_3_2025.pdf) [Déja choisi]
 - **Sujet n°4** : [Développement d’un TP robotique avec Webots](srp/Sujet_4_2025.pdf): (Alexis Rebelo, Alex Marchetto)
