@@ -48,11 +48,7 @@ La première période du projet est consacrée à l'élaboration des documents p
 Jeanne-Esther Illouz)
 - **Sujet n°11** : [Conception et développment d’une interface pour gérer le contenu et les pièces jointes dans les mails automatiques envoyés au cours d’un  wokflow de processus métier](srp/Sujet_11_2025.pdf)
 - **Sujet n°12** : [Sujet Valence]() [GIT](https://github.com/alkalain/MARL-RL-GUI.git) (Alain Karapertian, Enzo Vigne, Timéo Raphoz)
-
-
-
-Conception d’une plateforme de création et de gestion de tests d’évaluation en mathématiques pour la recherche en éducation
-
+- **Sujet n°13** : Optimisation de l'organisation d'un processus de picking en logistique
 
 
 !!! warning "Important"
