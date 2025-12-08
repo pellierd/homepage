@@ -48,7 +48,7 @@ La première période du projet est consacrée à l'élaboration des documents p
 Jeanne-Esther Illouz)
 - **Sujet n°11** : [Conception et développment d’une interface pour gérer le contenu et les pièces jointes dans les mails automatiques envoyés au cours d’un  wokflow de processus métier](srp/Sujet_11_2025.pdf)
 - **Sujet n°12** : [Sujet Valence](): [GIT](https://github.com/alkalain/MARL-RL-GUI.git) (Alain Karapertian, Enzo Vigne, Timéo Raphoz)
-- **Sujet n°13** : Optimisation de l'organisation d'un processus de picking en logistique: [GIT](https://github.com/ValentineDz/Emploi-Du-Temps-TER) (Anesie Martiniani, Andrea Behar-Yutkewich)
+- **Sujet n°13** : Optimisation de l'organisation d'un processus de picking en logistique: (Anesie Martiniani, Andrea Behar-Yutkewich)
 
 
 !!! warning "Important"
