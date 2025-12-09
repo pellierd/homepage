@@ -30,8 +30,8 @@ La première période du projet est consacrée à l'élaboration des documents p
 - **Choix définitif du sujet** : 08/12/2025  
 - **Début du TER une journée par semaine** : 08/12/2025  
 - **Date de la première soutenance** : 19/01/2026 - [Plannnig des soutenances](https://docs.google.com/spreadsheets/d/1rXzyouaMQ84RqYx3tDtOfcSG4Wux_E9eQFqfVnTmk50/edit?usp=sharing)
-- **Début des 7 semaines de stages** : 04/05/2026  
-- **Soutenance finale** : 18/06/2026  
+- **Début des 7 semaines de stages** : 04/05/2026
+- **Soutenance finale** : 18/06/2026  - [Plannnig des soutenances](https://docs.google.com/spreadsheets/d/11LQiMhUZ5n2zIHB4Av4jI0PiJeND2z0dzyM4yKpheHI/edit?usp=sharing)
 
 ## Projets 2025–2026 / Affectation
 
