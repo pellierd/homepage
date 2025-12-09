@@ -29,15 +29,15 @@ La première période du projet est consacrée à l'élaboration des documents p
 
 - **Choix définitif du sujet** : 08/12/2025  
 - **Début du TER une journée par semaine** : 08/12/2025  
-- **Date de la première soutenance** : 19/01/2026 et 26/01/2026  
+- **Date de la première soutenance** : 19/01/2026 - [Plannnig des soutenances](https://docs.google.com/spreadsheets/d/1rXzyouaMQ84RqYx3tDtOfcSG4Wux_E9eQFqfVnTmk50/edit?usp=sharing)
 - **Début des 7 semaines de stages** : 04/05/2026  
 - **Soutenance finale** : 18/06/2026  
 
 ## Projets 2025–2026 / Affectation
 
 - **Sujet n°1** : [Justice algorithmique des élections](srp/Sujet_1_2025.pdf)
-  - Groupe 1: (Djennad Mahdi, Rabehi Milhan)
-  - Groupe 2: [GIT](https://github.com/Lmainguet/JADE_ter) Louane Mainguet, Antony Youmpanos
+  - Groupe 1: Djennad Mahdi, Rabehi Milhan
+  - Groupe 2: Louane Mainguet, Antony Youmpanos - [GIT](https://github.com/Lmainguet/JADE_ter)
 - **Sujet n°2** : [Serious games pédagogiques](srp/Sujet_2_2025.pdf)
 - **Sujet n°3** : [Understanding cognitive processing in smartphone writing](srp/Sujet_3_2025.pdf) [Déja choisi]
 - **Sujet n°4** : [Développement d’un TP robotique avec Webots](srp/Sujet_4_2025.pdf): (Alexis Rebelo, Alex Marchetto)
@@ -49,8 +49,8 @@ La première période du projet est consacrée à l'élaboration des documents p
 - **Sujet n°10** : Développement d'une application Java modélisant l'apprentissage arithmétique: (Gatien Caillet,
 Jeanne-Esther Illouz)
 - **Sujet n°11** : [Conception et développment d’une interface pour gérer le contenu et les pièces jointes dans les mails automatiques envoyés au cours d’un  wokflow de processus métier](srp/Sujet_11_2025.pdf)
-- **Sujet n°12** : [Sujet Valence](): [GIT](https://github.com/alkalain/MARL-RL-GUI.git) (Alain Karapertian, Enzo Vigne, Timéo Raphoz)
-- **Sujet n°13** : Optimisation de l'organisation d'un processus de picking en logistique: [GIT](https://github.com/abehar9/ProjetTER) (Anesie Martiniani, Andrea Behar-Yutkewich)
+- **Sujet n°12** : [Sujet Valence](): Alain Karapertian, Enzo Vigne, Timéo Raphoz - [GIT](https://github.com/alkalain/MARL-RL-GUI.git)
+- **Sujet n°13** : Optimisation de l'organisation d'un processus de picking en logistique: Anesie Martiniani, Andrea Behar-Yutkewich - [GIT](https://github.com/abehar9/ProjetTER)
 
 
 !!! warning "Important"
