@@ -23,7 +23,7 @@ Il est demandé d’avoir acquis à la fin du cours les connaissances nécessair
 ## Équipe pédagogique
 
 - Damien Pellier – [Damien.Pellier@univ-grenoble-alpes.fr](mailto:Damien.Pellier@univ-grenoble-alpes.fr)
-- ...
+- Tiphaine Grand
 
 ## Modalités de contrôle de connaissances
 
