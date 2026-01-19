@@ -43,7 +43,7 @@ La première période du projet est consacrée à l'élaboration des documents p
 - **Sujet n°4** : [Développement d’un TP robotique avec Webots](srp/Sujet_4_2025.pdf): (Alexis Rebelo, Alex Marchetto) - [GIT](https://github.com/AlexMarchetto/TER---Projet-Robotique#)
 - **Sujet n°5** : [Application d'IA permettant des citations précises et des recherches juridiques approfondies](srp/Sujet_5_2025.pdf)
 - **Sujet n°6** : [Implémentation du composant questionnaire d’un outil de collecte de données biographiques rétrospective](srp/Sujet_6_2025.pdf): (Tran-Phuc-Tin Truong, Adrien Van-Robays) [GIT](https://github.com/PhilipsTruong/Projet-Tuteure-LifeStories)
-- **Sujet n°7** : [Conception d’une plateforme de création et de gestion de tests d’évaluation en mathématiques pour la recherche en éducation](srp/Sujet_7_2025.pdf): (Osama Lababidi, Arthur Laumay, Brice Mc Carthy)
+- **Sujet n°7** : [Conception d’une plateforme de création et de gestion de tests d’évaluation en mathématiques pour la recherche en éducation](srp/Sujet_7_2025.pdf): (Osama Lababidi, Arthur Laumay, Brice Mc Carthy) [GIT](https://gricad-gitlab.univ-grenoble-alpes.fr/crosetm/evalmaths.git)
 - **Sujet n°8** : [Algorithme de résolution de jeux à information imparfaite ](srp/Sujet_8_2025.pdf)
 - **Sujet n°9** : [GenderedNews](srp/Sujet_9_2025.pdf): (Aylin Guventurk, Rachel Peretti)
 - **Sujet n°10** : Développement d'une application Java modélisant l'apprentissage arithmétique: (Gatien Caillet,
