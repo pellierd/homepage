@@ -40,7 +40,7 @@ La première période du projet est consacrée à l'élaboration des documents p
   - Groupe 2: Louane Mainguet, Antony Youmpanos - [GIT](https://github.com/Lmainguet/JADE_ter)
 - **Sujet n°2** : [Serious games pédagogiques](srp/Sujet_2_2025.pdf)
 - **Sujet n°3** : [Understanding cognitive processing in smartphone writing](srp/Sujet_3_2025.pdf) [Déja choisi]
-- **Sujet n°4** : [Développement d’un TP robotique avec Webots](srp/Sujet_4_2025.pdf): (Alexis Rebelo, Alex Marchetto)
+- **Sujet n°4** : [Développement d’un TP robotique avec Webots](srp/Sujet_4_2025.pdf): (Alexis Rebelo, Alex Marchetto) - [GIT]{https://github.com/AlexMarchetto/TER---Projet-Robotique#}
 - **Sujet n°5** : [Application d'IA permettant des citations précises et des recherches juridiques approfondies](srp/Sujet_5_2025.pdf)
 - **Sujet n°6** : [Implémentation du composant questionnaire d’un outil de collecte de données biographiques rétrospective](srp/Sujet_6_2025.pdf): (Tran-Phuc-Tin Truong, Adrien Van-Robays)
 - **Sujet n°7** : [Conception d’une plateforme de création et de gestion de tests d’évaluation en mathématiques pour la recherche en éducation](srp/Sujet_7_2025.pdf): (Osama Lababidi, Arthur Laumay, Brice Mc Carthy)
