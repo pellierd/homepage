@@ -49,8 +49,7 @@ La première période du projet est consacrée à l'élaboration des documents p
 - **Sujet n°10** : Développement d'une application Java modélisant l'apprentissage arithmétique: (Gatien Caillet,
 Jeanne-Esther Illouz)
 - **Sujet n°11** : [Conception et développment d’une interface pour gérer le contenu et les pièces jointes dans les mails automatiques envoyés au cours d’un  wokflow de processus métier](srp/Sujet_11_2025.pdf)
-- **Sujet n°12** : [Sujet Valence](): Alain Karapertian, Enzo Vigne, Timéo Raphoz - [GIT](https://github.com/alkalain/MARL-RL-GUI.git)
-- **Sujet n°13** : Optimisation de l'organisation d'un processus de picking en logistique: Anesie Martiniani, Andrea - - **Sujet n°14** : [MARIO 1 : Une plateforme pour expérimenter facilement l’apprentissage par renforcement multi-agent dans les jeux vidéo](srp/Sujet_14_2025.pdf): (Alain Karapetian, Enzo Vigne, Timéo Raphoz)
+- **Sujet n°12** : Optimisation de l'organisation d'un processus de picking en logistique: Anesie Martiniani, Andrea - - **Sujet n°14** : [MARIO 1 : Une plateforme pour expérimenter facilement l’apprentissage par renforcement multi-agent dans les jeux vidéo](srp/Sujet_14_2025.pdf): (Alain Karapetian, Enzo Vigne, Timéo Raphoz)  [GIT](https://github.com/alkalain/MARL-RL-GUI.git)
 
 
 !!! warning "Important"
