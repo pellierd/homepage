@@ -57,13 +57,6 @@ Jeanne-Esther Illouz)
       - La liste est en cours de construction. Les sujets sont mis en ligne au fil de l'eau. Pensez à vérifier régulièrement.
       - Une fois le sujet choisi, prenez contact avec l'encadrant pour valider avec lui le sujet.
 
-!!! info "Étudiants sciences cognitives"
-
-    Pour les étudiants cherchant un TER orienté sciences cognitives, vous pouvez contacter :
-
-    - Alan Chauvin (<alan.chauvin@univ-grenoble-alpes.fr>)  
-    - Sonia Kandel (<sonia.kandel@univ-grenoble-alpes.fr>)
-
 
 ## Affectation des sujets aux groupes
 
