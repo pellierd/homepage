@@ -50,7 +50,7 @@ La première période du projet est consacrée à l'élaboration des documents p
 Jeanne-Esther Illouz) [GIT](https://github.com/GatienCaillet/TER_CAILLET_ILLOUZ)
 - **Sujet n°11** : [Conception et développment d’une interface pour gérer le contenu et les pièces jointes dans les mails automatiques envoyés au cours d’un  wokflow de processus métier](srp/Sujet_11_2025.pdf)
 - **Sujet n°12** : Optimisation de l'organisation d'un processus de picking en logistique: Anesie Martiniani, Andrea 
-- **Sujet n°13** : MARIO 1 : Une plateforme pour expérimenter facilement l’apprentissage par renforcement multi-agent dans les jeux : (Alain Karapetian, Enzo Vigne, Timéo Raphoz)  [GIT](https://github.com/alkalain/MARL-RL-GUI.git)
+- **Sujet n°13** : MARIO : Une plateforme pour expérimenter facilement l’apprentissage par renforcement multi-agent dans les jeux : (Alain Karapetian, Enzo Vigne, Timéo Raphoz)  [GIT](https://github.com/alkalain/MARL-RL-GUI.git)
 
 
 !!! warning "Important"
