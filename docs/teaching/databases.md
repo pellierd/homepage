@@ -46,7 +46,7 @@ Il est demandé d’avoir acquis à la fin du cours les connaissances nécessair
 | [Cours n°1: Concepts des bases de données relationnelles](databases/01.introduction.pdf) | [TD n°1](databases/td01.pdf) | | |
 | [Cours n°2: L'algèbre relationnelle](databases/02.algebre.pdf) | [TD n°2](databases/td02.pdf) | [TP n°1](databases/tp01.pdf) | [BD TP n°1](databases/le_grand_bazard.bd) |
 | **Partie n°2 : Utilisation des bases de données relationnelles** ||||
-| [Cours n°3: SQL DML (1)](databases/03.sql1.pdf) | [TD n°3](databases/td03.pdf) | [TP n°2](databases/tp02.pdf) | [BD TP n°2](databases/les_employes.bd) |
+| [Cours n°3: SQL DML (1)](03.sql1.pdf) | [TD n°3](databases/td03.pdf) | [TP n°2](databases/tp02.pdf) | [BD TP n°2](databases/les_employes.bd) |
 | [Cours n°4: SQL DML (2)](databases/04.sql2.pdf) | [TD n°4](databases/td04.pdf) | [TP n°3](databases/tp03.pdf) | [BD TP n°3](databases/agence_de_voyages.bd) |
 | [Cours n°5: SQL DDL](databases/05.sql3.pdf) | [TD n°5](databases/td05.pdf) | [TP n°4](databases/tp04.pdf) | |
 | **Développement des bases de données relationnelles** ||||
