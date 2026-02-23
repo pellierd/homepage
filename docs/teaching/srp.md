@@ -37,7 +37,7 @@ La première période du projet est consacrée à l'élaboration des documents p
 
 - **Sujet n°1** : [Justice algorithmique des élections](srp/Sujet_1_2025.pdf)
   - Groupe 1: Djennad Mahdi, Rabehi Milhan [GIT](https://github.com/Milhane69/ProjetJADE-Sujet1.git)
-  - Groupe 2: Louane Mainguet, Antony Youmpanos - [GIT](https://github.com/Lmainguet/JADE_ter)
+  - Groupe 2: Louane Mainguet, Antony Toumpanos - [GIT](https://github.com/Lmainguet/JADE_ter)
 - **Sujet n°2** : [Serious games pédagogiques](srp/Sujet_2_2025.pdf)
 - **Sujet n°3** : [Understanding cognitive processing in smartphone writing](srp/Sujet_3_2025.pdf) [Déja choisi]
 - **Sujet n°4** : [Développement d’un TP robotique avec Webots](srp/Sujet_4_2025.pdf): (Alexis Rebelo, Alex Marchetto) - [GIT](https://github.com/AlexMarchetto/TER---Projet-Robotique#)
