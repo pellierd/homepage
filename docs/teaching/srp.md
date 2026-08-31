@@ -27,30 +27,16 @@ La première période du projet est consacrée à l'élaboration des documents p
 
 ## Dates importantes
 
-- **Choix définitif du sujet** : 08/12/2025  
-- **Début du TER une journée par semaine** : 08/12/2025  
-- **Date de la première soutenance** : 19/01/2026 - [Plannnig des soutenances](https://docs.google.com/spreadsheets/d/1rXzyouaMQ84RqYx3tDtOfcSG4Wux_E9eQFqfVnTmk50/edit?usp=sharing)
-- **Début des 7 semaines de stages** : 04/05/2026
-- **Soutenance finale** : 18/06/2026  - [Plannnig des soutenances](https://docs.google.com/spreadsheets/d/11LQiMhUZ5n2zIHB4Av4jI0PiJeND2z0dzyM4yKpheHI/edit?usp=sharing)
+- **Choix définitif du sujet** : 22/10/2026  
+- **Début du TER une journée par semaine** : 02/11/2026  
+- **Date de la première soutenance** : 18/01/2027 - [Plannnig des soutenances](https://docs.google.com/spreadsheets/d/1rXzyouaMQ84RqYx3tDtOfcSG4Wux_E9eQFqfVnTmk50/edit?usp=sharing)
+- **Début des 7 semaines de stages** : 03/05/2026
+- **Soutenance finale** : 17/06/2026  - [Plannnig des soutenances](https://docs.google.com/spreadsheets/d/11LQiMhUZ5n2zIHB4Av4jI0PiJeND2z0dzyM4yKpheHI/edit?usp=sharing)
 
-## Projets 2025–2026 / Affectation
+## Projets 2026–2027 / Affectation
 
-- **Sujet n°1** : [Justice algorithmique des élections](srp/Sujet_1_2025.pdf)
-  - Groupe 1: Djennad Mahdi, Rabehi Milhan [GIT](https://github.com/Milhane69/ProjetJADE-Sujet1.git)
-  - Groupe 2: Louane Mainguet, Antony Toumpanos - [GIT](https://github.com/Lmainguet/JADE_ter)
-- **Sujet n°2** : [Serious games pédagogiques](srp/Sujet_2_2025.pdf)
-- **Sujet n°3** : [Understanding cognitive processing in smartphone writing](srp/Sujet_3_2025.pdf) [Déja choisi]
-- **Sujet n°4** : [Développement d’un TP robotique avec Webots](srp/Sujet_4_2025.pdf): (Alexis Rebelo, Alex Marchetto) - [GIT](https://github.com/AlexMarchetto/TER---Projet-Robotique#)
-- **Sujet n°5** : [Application d'IA permettant des citations précises et des recherches juridiques approfondies](srp/Sujet_5_2025.pdf)
-- **Sujet n°6** : [Implémentation du composant questionnaire d’un outil de collecte de données biographiques rétrospective](srp/Sujet_6_2025.pdf): (Tran-Phuc-Tin Truong, Adrien Van-Robays) [GIT](https://github.com/PhilipsTruong/Projet-Tuteure-LifeStories)
-- **Sujet n°7** : [Conception d’une plateforme de création et de gestion de tests d’évaluation en mathématiques pour la recherche en éducation](srp/Sujet_7_2025.pdf): (Osama Lababidi, Arthur Laumay, Brice Mc Carthy) [GIT](https://gricad-gitlab.univ-grenoble-alpes.fr/crosetm/evalmaths.git)
-- **Sujet n°8** : [Algorithme de résolution de jeux à information imparfaite ](srp/Sujet_8_2025.pdf)
-- **Sujet n°9** : [GenderedNews](srp/Sujet_9_2025.pdf): (Aylin Guventurk, Rachel Peretti)
-- **Sujet n°10** : Développement d'une application Java modélisant l'apprentissage arithmétique: (Gatien Caillet,
-Jeanne-Esther Illouz) [GIT](https://github.com/GatienCaillet/TER_CAILLET_ILLOUZ)
-- **Sujet n°11** : [Conception et développment d’une interface pour gérer le contenu et les pièces jointes dans les mails automatiques envoyés au cours d’un  wokflow de processus métier](srp/Sujet_11_2025.pdf)
-- **Sujet n°12** : Optimisation de l'organisation d'un processus de picking en logistique: Anesie Martiniani, Andrea 
-- **Sujet n°13** : MARIO : Une plateforme pour expérimenter facilement l’apprentissage par renforcement multi-agent dans les jeux : (Alain Karapetian, Enzo Vigne, Timéo Raphoz)  [GIT](https://github.com/alkalain/MARL-RL-GUI.git)
+- **Sujet n°1** : [SEED : l’IAG au service de l’informatique décisionnelle](srp/Sujet_1_2026.pdf)
+
 
 
 !!! warning "Important"
