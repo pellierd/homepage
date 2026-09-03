@@ -36,6 +36,8 @@ La première période du projet est consacrée à l'élaboration des documents p
 ## Projets 2026–2027 / Affectation
 
 - **Sujet n°1** : [SEED : l’IAG au service de l’informatique décisionnelle](srp/Sujet_1_2026.pdf)
+- **Sujet n°2** : [Application web dédiée aux étudiants recherchant un logement](srp/Sujet_2_2026.pdf)
+- **Sujet n°3** : [Refonte du site μGlyph](srp/Sujet_3_2026.pdf)
 
 
 
