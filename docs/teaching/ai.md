@@ -74,7 +74,7 @@ La librairie utilisée est [leJos](https://lejos.sourceforge.io/). Pour l'instal
   | n°4 | Medi Saou, Ruben Weymeersch, Candice Mathon, Hadjer Haddadou  | [GitHub](https://github.com/saoumedi-lab/Robot-L3-) |
   | n°5 | Marius Barbier, Pauline Poette, Laurena Walter, Alix Muller | [GitHub](https://gricad-gitlab.univ-grenoble-alpes.fr/lapiedc/projet-robot-l3) |
   | n°6 | Ishimwe Diela, Gateka Aella Sania Stephy, Kanakimana Lys Leilla, Sow Mohamed  | [GitHub](https://github.com/diela27) |
-  | n°7 |  | [GitHub]() |
+  | n°7 | Ndong Benoit, Moussa Ilan, Kondo Komlan Françoi, Gueye Lala Aïcha | [GitHub](https://github.com/benoitndong-ship-it/Projet-IA.git) |
 
 
 ## Références bibliographiques
