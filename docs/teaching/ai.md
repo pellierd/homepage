@@ -68,13 +68,13 @@ La librairie utilisée est [leJos](https://lejos.sourceforge.io/). Pour l'instal
 
   | Groupe | Étudiants | GitHub |
   |--------|-----------|--------|
-  | n°1 | Mathias Devilliers, Paul Ndong, Saliha Ozturk, Carole Mitton | [GitHub](https://github.com/MathiaasGH/wall-e-dmno) |
-  | n°2 | ABDOUL KHADIR Diallo, BOUCQ-KIEFFEL Léna, DUBUS Roxane | [GitHub](https://github.com/kieffellena/Projet-IA-BDD) |
-  | n°3 | Sara IKAN, Alix PRATABUY, Eva DROSZEWSKI, Anesie MARTINIANI | [GitHub](https://github.com/evaski/projet_sully_ia.git) |
-  | n°4 | Adam Cotard, Quentin Juillat, Tom Laucournet, Tao Thill, Brice MC CARTHY | [GitHub](https://github.com/AdamInLoveOfBrice/miashsia/) |
-  | n°5 | Basak Unal, Narta Neziraj, Yassmina Cherqaoui, Zoé Laget-Thomas | [GitHub](https://github.com/entjellybean/Ai-lojos-github) |
-  | n°6 | Victor CHARREYRON, Thomas BEGOTTI, Alexander OSTLE, Flora MOULIN | [GitHub](https://github.com/thoms9/IntroIA_T_A_F_V) |
-  | n°7 | TAMSOURI Mohammed, HALILY Youssef, NGUIRANE Marième, AMACHAT Yousra, AIT EL HADJ Anas | [GitHub](https://github.com/AnasAEA/Groupe-IA-Miashs-Proba) |
+  | n°1 | Ahmed Aniati, Argoud Romain, Ben Allal Seghir Tanis, Niamouke Ekoumi | [GitHub](https://github.com/romain207/Marvin-Project.git) |
+  | n°2 | Matheo Biarra, Navarro Killian, Bercier Ethan, Oublié Nathan | [GitHub](https://github.com/users/kiks158/projects/1/views/1) |
+  | n°3 | Mohamed Fall, Fatou Diop, Thierno Diakhate, Mbaye Niang, Modou Ngom | [GitHub](https://github.com/mbayeniang6/projet-IA.git) |
+  | n°4 | Medi Saou, Ruben Weymeersch, Candice Mathon, Hadjer Haddadou  | [GitHub](https://github.com/saoumedi-lab/Robot-L3-) |
+  | n°5 | Marius Barbier, Pauline Poette, Laurena Walter, Alix Muller | [GitHub](https://gricad-gitlab.univ-grenoble-alpes.fr/lapiedc/projet-robot-l3) |
+  | n°6 | Ishimwe Diela, Gateka Aella Sania Stephy, Kanakimana Lys Leilla, Sow Mohamed  | [GitHub](https://github.com/diela27) |
+  | n°7 |  | [GitHub]() |
 
 
 ## Références bibliographiques
