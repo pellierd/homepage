@@ -38,8 +38,8 @@ La première période du projet est consacrée à l'élaboration des documents p
 - **Sujet n°1** : [SEED : l’IAG au service de l’informatique décisionnelle](srp/Sujet_1_2026.pdf)
 - **Sujet n°2** : [Application web dédiée aux étudiants recherchant un logement](srp/Sujet_2_2026.pdf) [Paul Cogitore et Evan Moras]
 - **Sujet n°3** : [Refonte du site μGlyph](srp/Sujet_3_2026.pdf)
-- **Sujet n°4** : [Éditeur web de graphes UNL](srp/Sujet_4_2026.pdf)
-- **Sujet n°5** : [U-QUAIL — plateforme d'évaluation par des experts des réponses produites par des IA sur graphes de connaissances biomédicales](srp/Sujet_5_2026.pdf)
+- **Sujet n°4** : [Éditeur web de graphes UNL](srp/Sujet_4_2026.pdf) [Katlyn Serre, ]
+- **Sujet n°5** : [U-QUAIL — plateforme d'évaluation par des experts des réponses produites par des IA sur graphes de connaissances biomédicales](srp/Sujet_5_2026.pdf) [Yanis Harkati and Katlyn Serre]
 
 !!! warning "Important"
       - La liste est en cours de construction. Les sujets sont mis en ligne au fil de l'eau. Pensez à vérifier régulièrement.
