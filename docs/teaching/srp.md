@@ -40,6 +40,9 @@ La première période du projet est consacrée à l'élaboration des documents p
 - **Sujet n°3** : [Refonte du site μGlyph](srp/Sujet_3_2026.pdf) [Jarod Tivollier, Lili Goy]
 - **Sujet n°4** : [Éditeur web de graphes UNL](srp/Sujet_4_2026.pdf) [Yanis Harkati and Katlyn Serre]
 - **Sujet n°5** : [U-QUAIL — plateforme d'évaluation par des experts des réponses produites par des IA sur graphes de connaissances biomédicales](srp/Sujet_5_2026.pdf) 
+- **Sujet n°6** : [Réalisation d'une interface de commande du synthétiseur audio modulaire RUMS](srp/Sujet_6_2026.pdf) 
+- **Sujet n°7** : [Amélioration et test d’une application pour l’apprentissage de stratégies de mémorisation chez l’enfant](srp/Sujet_7_2026.pdf) 
+
 
 !!! warning "Important"
       - La liste est en cours de construction. Les sujets sont mis en ligne au fil de l'eau. Pensez à vérifier régulièrement.
