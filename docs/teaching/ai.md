@@ -70,12 +70,11 @@ La librairie utilisée est [leJos](https://lejos.sourceforge.io/). Pour l'instal
   |--------|-----------|--------|
   | n°1 | Ahmed Aniati, Argoud Romain, Ben Allal Seghir Tanis, Niamouke Ekoumi | [GitHub](https://github.com/romain207/Marvin-Project.git) |
   | n°2 | Matheo Biarra, Navarro Killian, Bercier Ethan, Oublié Nathan | [GitHub](https://github.com/users/kiks158/projects/1/views/1) |
-  | n°3 | Mohamed Fall, Fatou Diop, Thierno Diakhate, Mbaye Niang, Modou Ngom | [GitHub](https://github.com/mbayeniang6/projet-IA.git) |
-  | n°4 | Medi Saou, Ruben Weymeersch, Candice Mathon, Hadjer Haddadou  | [GitHub](https://github.com/saoumedi-lab/Robot-L3-) |
-  | n°5 | Marius Barbier, Pauline Poette, Laurena Walter, Alix Muller | [GitHub](https://gricad-gitlab.univ-grenoble-alpes.fr/lapiedc/projet-robot-l3) |
-  | n°6 | Ishimwe Diela, Gateka Aella Sania Stephy, Kanakimana Lys Leilla, Sow Mohamed  | [GitHub](https://github.com/diela27) |
-  | n°7 | Ndong Benoit, Moussa Ilan, Kondo Komlan Françoi, Gueye Lala Aïcha | [GitHub](https://github.com/benoitndong-ship-it/Projet-IA.git) |
-  | n°8 | Lazraq Ghali, Orhan Denis, Gaspard Marin, Benzi-Jon Hugo | [GitHub]( https://github.com/ghalilz6/AI-PROJECT-.git) |
+  | n°3 | Medi Saou, Ruben Weymeersch, Candice Mathon, Hadjer Haddadou  | [GitHub](https://github.com/saoumedi-lab/Robot-L3-) |
+  | n°4 | Marius Barbier, Pauline Poette, Laurena Walter, Alix Muller | [GitHub](https://gricad-gitlab.univ-grenoble-alpes.fr/lapiedc/projet-robot-l3) |
+  | n°5 | Ishimwe Diela, Gateka Aella Sania Stephy, Kanakimana Lys Leilla, Sow Mohamed, Mohamed Fall  | [GitHub](https://github.com/diela27) |
+  | n°6 | Ndong Benoit, Moussa Ilan, Kondo Komlan Françoi, Gueye Lala Aïcha | [GitHub](https://github.com/benoitndong-ship-it/Projet-IA.git) |
+  | n°7 | Lazraq Ghali, Orhan Denis, Gaspard Marin, Benzi-Jon Hugo | [GitHub]( https://github.com/ghalilz6/AI-PROJECT-.git) |
 
 
 
