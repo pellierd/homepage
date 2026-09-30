@@ -41,7 +41,7 @@ La première période du projet est consacrée à l'élaboration des documents p
 - **Sujet n°4** : [Éditeur web de graphes UNL](srp/Sujet_4_2026.pdf) [Yanis Harkati and Katlyn Serre]
 - **Sujet n°5** : [U-QUAIL — plateforme d'évaluation par des experts des réponses produites par des IA sur graphes de connaissances biomédicales](srp/Sujet_5_2026.pdf) 
 - **Sujet n°6** : [Réalisation d'une interface de commande du synthétiseur audio modulaire RUMS](srp/Sujet_6_2026.pdf) 
-- **Sujet n°7** : [Amélioration et test d’une application pour l’apprentissage de stratégies de mémorisation chez l’enfant](srp/Sujet_7_2026.pdf) 
+- **Sujet n°7** : [Amélioration et test d’une application pour l’apprentissage de stratégies de mémorisation chez l’enfant](srp/Sujet_7_2026.pdf) [​Timothé Jacob, Axel Tierrie]
 - **Sujet n°8** : [Benchmark d’approches de transcription automatique de conférences relatives au domaine musical
 ](srp/Sujet_8_2026.pdf) 
 - **Sujet n°9** : [Classification automatique de commentaires métacognitifs des élèves : comparaison de modèles de langage gratuits et payants](srp/Sujet_9_2026.pdf)
