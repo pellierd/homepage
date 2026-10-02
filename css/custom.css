@@ -1,0 +1,23 @@
+/* Justifier le texte dans tout le site */
+body {
+    text-align: justify;
+}
+
+/* Justifier uniquement les paragraphes */
+p {
+    text-align: justify;
+}
+
+.md-typeset {
+  font-size: 0.65rem !important;
+}
+
+.md-nav__title {    /* Pour le nom du site dans la barre latérale */
+    display: none !important;
+}
+
+.md-nav__item--section > .md-nav__link {
+    font-weight: normal;
+    font-size: .8rem; /* Taille légèrement augmentée */
+    color: #003366; /* Bleu Google : tu peux changer la couleur ici */
+}
