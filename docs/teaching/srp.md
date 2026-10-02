@@ -47,6 +47,10 @@ La première période du projet est consacrée à l'élaboration des documents p
 - **Sujet n°9** : [Classification automatique de commentaires métacognitifs des élèves : comparaison de modèles de langage gratuits et payants](srp/Sujet_9_2026.pdf)
 - **Sujet n°10** : [Interface de visualisation des résultats de classification de commentaires métacognitifs des élèves](srp/Sujet_10_2026.pdf) 
 - **Sujet n°11** : [Enrichir un système générateur des parcours d’apprentissage adaptatifs](srp/Sujet_11_2026.pdf) 
+Évaluation de la performance d’un regard robotique
+- **Sujet n°12** : [Évaluation de la performance d’un regard robotique
+dans une tâche d’interaction humain-cobot](srp/Sujet_12_2026.pdf) 
+
 
 
 
