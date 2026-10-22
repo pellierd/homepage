@@ -42,11 +42,10 @@ La première période du projet est consacrée à l'élaboration des documents p
 - **Sujet n°5** : [U-QUAIL — plateforme d'évaluation par des experts des réponses produites par des IA sur graphes de connaissances biomédicales](srp/Sujet_5_2026.pdf) [Ange Kevine NIMBONA, Khadim KANE, Cedrix KENGNI]
 - **Sujet n°6** : [Réalisation d'une interface de commande du synthétiseur audio modulaire RUMS](srp/Sujet_6_2026.pdf) 
 - **Sujet n°7** : [Amélioration et test d’une application pour l’apprentissage de stratégies de mémorisation chez l’enfant](srp/Sujet_7_2026.pdf) [​Timothé Jacob, Axel Tierrie]
-- **Sujet n°8** : [Benchmark d’approches de transcription automatique de conférences relatives au domaine musical
-](srp/Sujet_8_2026.pdf) 
+- **Sujet n°8** : [Benchmark d’approches de transcription automatique de conférences relatives au domaine musical](srp/Sujet_8_2026.pdf) 
 - **Sujet n°9** : [Classification automatique de commentaires métacognitifs des élèves : comparaison de modèles de langage gratuits et payants](srp/Sujet_9_2026.pdf) [CETINKAYA Melih, TREVIN Adam]
 - **Sujet n°10** : [Interface de visualisation des résultats de classification de commentaires métacognitifs des élèves](srp/Sujet_10_2026.pdf) [Fusionné avec le sujet 9 (plus idsponible)]
-- **Sujet n°11** : [Enrichir un système générateur des parcours d’apprentissage adaptatifs](srp/Sujet_11_2026.pdf) 
+- **Sujet n°11** : [Enrichir un système générateur des parcours d’apprentissage adaptatifs](srp/Sujet_11_2026.pdf) [Valentin MASSARD et Romain REYMOND]
 - **Sujet n°12** : [Évaluation de la performance d’un regard robotique
 dans une tâche d’interaction humain-cobot](srp/Sujet_12_2026.pdf) 
 
